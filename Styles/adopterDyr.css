@@ -6,7 +6,7 @@ body {
   padding: 0;
   font-family: Georgia, "Times New Roman", Times, serif;
   background: linear-gradient(360deg, #5c5c5c 10%, #000000 360%);
-  /* background: linear-gradient(360deg, #949494 10%, #a5a5a5 360%); */
+  background: linear-gradient(360deg, #5c5c5c 10%, #000000 360%);
 }
 
 #wrapper {
