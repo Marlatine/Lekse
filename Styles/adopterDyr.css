@@ -12,7 +12,7 @@ body {
 #wrapper {
   display: grid;
   height: 100%;
-  grid-template-columns: 5% 2fr 5%;
+  grid-template-columns: 2% 2fr 2%;
   grid-template-rows: 8% 15% 77%;
 }
 
